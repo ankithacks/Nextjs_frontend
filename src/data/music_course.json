@@ -1,0 +1,44 @@
+{
+    "courses":[
+        {
+            "id": 1,
+            "title":"guitar Fundamentals",
+            "slug":"guitar-fundamentals",
+            "description":"Learn the fundamentals of basic guitar playing with one and only comprehensive courses and begineers choices",
+            "price": 99.56,
+            "instructor":"John Doe",
+            "isFeatured":true,
+            "image":"/courses/guitar.jpg"
+        },
+        {
+            "id": 2,
+            "title":"piano Fundamentals",
+            "slug":"piano-fundamentals",
+            "description":"Learn the fundamentals of basic piano playing with one and only comprehensive courses and begineers choices",
+            "price": 99.56,
+            "instructor":"John Doe",
+            "isFeatured":true,
+            "image":"/courses/piano.jpg"
+        },
+        {
+            "id": 3,
+            "title":"sitar Fundamentals",
+            "slug":"sitar-fundamentals",
+            "description":"Learn the fundamentals of basic sitar playing with one and only comprehensive courses and begineers choices",
+            "price": 99.56,
+            "instructor":"John Doe",
+            "isFeatured":true,
+            "image":"/courses/sitar.jpg"
+        },
+        {
+            "id": 4,
+            "title":"drum Fundamentals",
+            "slug":"drum-fundamentals",
+            "description":"Learn the fundamentals of basic drum playing with one and only comprehensive courses and begineers choices",
+            "price": 99.56,
+            "instructor":"John Doe",
+            "isFeatured":true,
+            "image":"/courses/drum.jpg"
+        }
+    ]
+}
